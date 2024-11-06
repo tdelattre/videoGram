@@ -21,5 +21,6 @@ exportVideo(outputDir = "/path_to_export_folder/",
             
             wavList = c(23), #which sounds in the Table to you wan to export
             
-            suffix = "whatever") ; listen( synth(d = 1, f = 44100, cf = 440, output = "Wave"))
+            suffix = "whatever",
+            beeep = TRUE) 
 ```
