@@ -8,6 +8,8 @@ sur lesquels Birdnet a détecté des espèces. Vous réalisez ensuite une sélec
 pour une espèces donnée (wavTable). Après les avoir écouté, vous en sélectionnez certains pour
 les exporter en vidéo
 
+ExportVideoSimple permet également d'exporer directement depuis un simple fichier wav.
+
 # Usage : 
 
 ```
