@@ -2,7 +2,8 @@
 # ______________________________________________________________________________________ 
 # ______________________________________________________________________________________ 
 # |                                                                                    |
-# |          SCRIPT WRITTEN BY THOMAS DELATTRE thomas.delattre@inrae.fr              | 
+# |          SCRIPT WRITTEN BY THOMAS DELATTRE thomas.delattre@inrae.fr                |
+# |                      Please credit me if you use my work :)
 # |                              ----------------                                      | 
 # |                              LICENCE CC-BY-SA                                      | 
 # |                              ----------------                                      |
